@@ -1,1 +1,1 @@
-# CSCI-373 Introduction to Cybersecurity
+# CSCI-373 Intro to Cybersecurity
