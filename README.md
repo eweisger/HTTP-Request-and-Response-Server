@@ -1,1 +1,1 @@
-# HTTP-Request-and-Response-Server
+# CSCI-373 Introduction to Cybersecurity
